@@ -1,8 +1,10 @@
-[
-    {
-      "username": "ABC",
-      "winRation": 20,
-      "turnPlayed": 4
-    }
+{
+    [
+        {
+            "username": "ABC",
+            "winRation": 20,
+            "turnPlayed": 4
+        }
     
-  ]
+    ]
+}
