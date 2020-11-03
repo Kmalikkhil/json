@@ -1,11 +1,8 @@
-{
-  "posts": [
+[
     {
-      "id": 1,
-      "title": "hello"
+      "username": "ABC",
+      "winRation": 20,
+      "turnPlayed": 4
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    
+  ]
