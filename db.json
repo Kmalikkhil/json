@@ -1,10 +1,6 @@
 {
-    [
-        {
-            "username": "ABC",
-            "winRation": 20,
-            "turnPlayed": 4,
-        }
-    
-    ]
+   "username": "ABC",
+   "winRatio": 20,
+   "turnPlayed": 4
 }
+    
