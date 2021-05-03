@@ -1,16 +1,39 @@
 {
    "Leaderboard": [
       {
-         "username": "ABC1",
+         "username": "Kanishka",
          "winRatio": 20,
          "gamesPlayed": 5,
          "roundsPlayed": 10,
          "last5Games": "WWDLD"
       },
       {
-         "username": "ABC3",
-         "winRatio": 40,
-         "turnPlayed": 45
+         "username": "Tom",
+         "winRatio": 30,
+         "gamesPlayed": 4,
+         "roundsPlayed": 3,
+         "last5Games": "WDDLD"
+      },
+       {
+         "username": "Adam",
+         "winRatio": 70,
+         "gamesPlayed": 3,
+         "roundsPlayed": 2,
+         "last5Games": "WDDLD"
+      },
+       {
+         "username": "Lisa",
+         "winRatio": 60,
+         "gamesPlayed": 6,
+         "roundsPlayed": 20,
+         "last5Games": "WWLLD"
+      },
+       {
+         "username": "Elon",
+         "winRatio": 100,
+         "gamesPlayed": 5,
+         "roundsPlayed": 10,
+         "last5Games": "WWWWW"
       }
      
     ]
